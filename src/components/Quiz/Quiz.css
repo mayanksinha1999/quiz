@@ -1,0 +1,13 @@
+.selected{
+    background: orange !important;
+}
+
+
+.button-all{
+    cursor: pointer;
+    
+}
+
+.selected{
+    background-color: green !important;
+}

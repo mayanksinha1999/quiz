@@ -1,0 +1,19 @@
+.jumbo-1{
+    height: 500px;
+    padding: 0px;
+    padding-right: 0px;
+}
+
+.jumbo-2{
+    height: 500px;
+    padding-left: 0.2rem;
+    padding-right: 0px;
+}
+
+.button-panel{
+    margin-bottom: 5px;
+}
+
+.jumbo-10{
+    background: blue;
+}
